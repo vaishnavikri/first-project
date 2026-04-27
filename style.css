@@ -1,0 +1,16 @@
+body{
+    background-color: bisque;
+}
+
+.box{
+   border: 2px solid black;
+   height: 300px;
+   display: flex;
+}
+
+.description{
+    margin: 20px;
+    text-align: center;
+    font-size: larger;
+    color: brown;
+}
